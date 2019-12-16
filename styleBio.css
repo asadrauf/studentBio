@@ -1,0 +1,22 @@
+section {
+    float: left;
+    margin: 0 1.5%;
+    width: 30%;
+  }
+  .div{
+      width: 960px;
+      background-color: antiquewhite;
+      border: 2px solid lightgray;
+      overflow: auto;
+      padding: 0px 0px 10px 0px;
+      margin: 0 auto;
+  }
+  h1{
+      text-align: center;
+      background-color: black;
+      color: white;
+      margin-top: 0 ;
+  }
+  a{
+      text-decoration: none;
+  }
